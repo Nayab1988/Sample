@@ -6,7 +6,7 @@
 </Schema>
 <Folder><name>gadm36_KWT_0</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>FFA500</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#gadm36_KWT_0">
 		<SimpleData name="NAME_0">Kuwait</SimpleData>
 	</SchemaData></ExtendedData>
